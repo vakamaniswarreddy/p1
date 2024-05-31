@@ -1,0 +1,56 @@
+.bg-container {
+    background-color: #894bca;
+    background-size: cover;
+}
+
+.main-heading {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    color: #ffffff;
+    margin: 40px;
+    width: 200px;
+}
+
+.image {
+    width: 180px;
+    background-size: cover;
+}
+
+.page-card {
+    background-color: #ffffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin: 0px;
+    border-radius: 2px;
+}
+
+.sub-heading {
+    color: #f780c3;
+    font-size: 30px;
+    font-family: "Bree Serif";
+    padding: 22px;
+}
+
+.bottom-image {
+    height: 50px;
+    width: 50px;
+    margin: 50px;
+
+}
+
+.bottom-heading {
+    font-family: "Roboto";
+    color: #323f4b;
+    padding: 12px;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.paragraph {
+    color: #7b8794;
+    font-size: 14px;
+    margin-left: auto;
+    padding: 20px;
+
+}
